@@ -65,7 +65,7 @@ CREATE TABLE "subcategory" (
 	
 	SELECT * FROM campaign;
 	
-    SELECT * FROM Contact;
+    SELECT * FROM "Contact"
 	
 	SELECT * FROM category;
 	
